@@ -1748,4 +1748,4 @@ while running:
                     f.write(str(to_write))
                     f.write("\n")
                     f.close()
-                    print("added to blakced square list")
+                    print("added to blocked square list")
